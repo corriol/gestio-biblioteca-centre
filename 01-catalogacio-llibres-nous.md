@@ -3,6 +3,7 @@ layout: default
 title: 1. Catalogació de llibres nous
 nav_order: 1
 has_children: false 
+permalink: /catalogacio-llibres-nous/
 ---
 
 # Catalogació de llibres nous

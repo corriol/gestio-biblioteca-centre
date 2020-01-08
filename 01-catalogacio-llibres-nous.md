@@ -1,3 +1,10 @@
+---
+layout: default
+title: 1. Catalogació de llibres nous
+nav_order: 1
+has_children: false 
+---
+
 # Catalogació de llibres nous
 
 Una vegada dins del sistema PMB cal comprovar si el llibre ja està registrat des de l’opció catàleg. L’opció més ràpida és la búsqueda per ISBN que podrem llegir amb el lector de codi de barras.

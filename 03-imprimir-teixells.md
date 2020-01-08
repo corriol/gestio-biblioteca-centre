@@ -1,3 +1,9 @@
+---
+layout: default
+title: 3. Impressió dels teixells
+nav_order: 3
+has_children: false 
+---
 
 
 # Impressió dels teixells

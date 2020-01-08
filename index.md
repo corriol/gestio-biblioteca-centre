@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Home
 ---
 
+Gestió informàtica de la biblioteca del centre.

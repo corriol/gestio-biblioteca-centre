@@ -1,10 +1,3 @@
----
-layout: post
-title:  "Catalogació de llibres nous"
-date:   2019-12-11 13:30:01 +0100
-categories: jekyll update
----
-
 # Catalogació de llibres nous
 
 Una vegada dins del sistema PMB cal comprovar si el llibre ja està registrat des de l’opció catàleg. L’opció més ràpida és la búsqueda per ISBN que podrem llegir amb el lector de codi de barras.

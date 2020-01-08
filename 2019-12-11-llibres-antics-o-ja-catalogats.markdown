@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Catalogació de llibres vells"
-date:   2019-12-11 13:30:01 +0100
-categories: jekyll update
----
+
 
 # Catalogació de llibres vells
 
